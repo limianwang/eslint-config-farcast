@@ -1,0 +1,8 @@
+{
+  "name": "eslint-config-farcast",
+  "version": "0.1.0",
+  "description": "Farcast based eslint config",
+  "main": "index.js",
+  "author": "Limian Wang <limian.wang@move.com>",
+  "license": "MIT"
+}
